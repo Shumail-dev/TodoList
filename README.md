@@ -1,2 +1,2 @@
 # TodoList
-Todo List Application
+Todo List Application built with NodeJS and ExpressJS Framework
